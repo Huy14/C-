@@ -1,4 +1,11 @@
-1	Nguyen_Hai	An
-2	Duong_To	Binh
-3	Doan_Van	Cuong
-4	Nguyen_Van	Thanh
+10
+102	5.0	6.0	8.0	0	Nguyen_Van	An
+110	6.0	7.5	4.8	0	Tran_Van	Hoa
+118	8.0	7.5	9.0	0	Le_Minh		Son
+121	4.4	8.2	7.6	0	Le_Huy		Ngo
+132	8.4	7.3	5.6	0	Nguyen_Van	Dang
+152	5.0	6.5	8.0	0	Ngo_Van		An
+114	6.0	5.4	4.8	0	Tran_Van	Hoa
+123	8.0	7.5	9.0	0	Nguyen_Duc	Hung
+212	4.4	4.5	7.6	0	Tran_Le		Hien
+222	8.0	8.0	6.5	0	Nguyen_Van	Phuc
