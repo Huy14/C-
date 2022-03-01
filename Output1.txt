@@ -1,0 +1,11 @@
+MSSV	Toan	Ly	Hoa	TB	Ho		Ten
+102	5	6	8	6.33333	Nguyen_Van  	An	
+110	6	7.5	4.8	6.1	Tran_Van  	Hoa	
+114	6	5.4	4.8	5.4	Tran_Van  	Hoa	
+118	8	7.5	9	8.16667	Le_Minh  	Son	
+121	4.4	8.2	7.6	6.73333	Le_Huy  	Ngo	
+123	8	7.5	9	8.16667	Nguyen_Duc  	Hung	
+132	8.4	7.3	5.6	7.1	Nguyen_Van  	Dang	
+152	5	6.5	8	6.5	Ngo_Van  	An	
+212	4.4	4.5	7.6	5.5	Tran_Le  	Hien	
+222	8	8	6.5	7.5	Nguyen_Van  	Phuc	
